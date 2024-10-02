@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "9eaa75fe4c5159a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "224a86f663499b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3073ed3347a86805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/project_documents/trackers/func-detect_frames详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bdd04ba1265d9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/project_documents/trackers/class-PlayerTracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e202ffeda524b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/project_documents/trackers/class-PlayerTracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a41a1f735299fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/项目申报书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b8db3c38108a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/project_documents/trackers/class-PlayerTracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ef2b7f4c71a26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 note_repo/yolov8/yolov8模型系列.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2575d91b652b3ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "91341d70f871eb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4af7e324980d205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1bd3827668030dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb9aed91280bbb7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51c868c1c1d27649",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3754cacb63db16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56ad2992dd78a2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 note_repo/项目申报书.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0bb2c2069a63354",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 note_repo/项目申报书.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b404f688dd6b79e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cf397e9f771621a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 note_repo/项目申报书.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d8a41a1f735299fd",
+  "lastOpenFiles": [
+    "02 code_space/Source_code/tracker_stubs/ball_detections.pkl",
+    "02 code_space/Source_code/tracker_stubs/player_detections.pkl",
+    "02 code_space/Source_code/assert/01_input_video.mp4",
+    "02 code_space/Source_code/assert/无标题视频——使用Clipchamp制作.mp4",
+    "02 code_space/Source_code/assert/03_input_video.mp4",
+    "02 code_space/Source_code/assert/02_input_video.mp4",
+    "02 code_space/Source_code/output/02_input_video_output.mp4",
+    "02 code_space/Source_code/output/02_input_video.mp4",
+    "02 code_space/Source_code/output/00_input_video_output.mp4",
+    "02 code_space/Source_code/assert/00_input_video.mp4",
+    "02 code_space/Source_code/assert/9月29日.mp4",
+    "00 inbox/func-get_choose_player_ids详解.md",
+    "01 note_repo/project_documents/trackers/class-CourtKeyPointsDetector.md",
+    "01 note_repo/project_documents/main/knowledge_card-pk1.md",
+    "01 note_repo/project_documents/trackers/class-PlayerTracker.md",
+    "00 inbox/为什么要这样算玩家与球场的最短距离？.md",
+    "01 note_repo/project_documents/trackers/func-choose_and_filter_players详解.md",
+    "01 note_repo/project_documents/trackers/func-interpolate_ball_positions.md",
+    "01 note_repo/project_documents/trackers/func-detect_frames详解.md",
+    "01 note_repo/project_documents/utils/func-read_video.md",
+    "01 note_repo/project_documents/trackers/class-BallTracker.md",
+    "01 note_repo/项目申报书.md",
+    "00 inbox/未命名.md",
+    "01 note_repo/yolov8/yolov8模型系列.md",
+    "02 code_space/Source_code/result/tennis_final.png",
+    "02 code_space/Source_code/result/image.png",
+    "02 code_space/Source_code/assert/image.png",
+    "02 code_space/Source_code/assert/full-size-tennis-court-dimensions.png",
+    "02 code_space/Source_code/README.md",
+    "02 code_space/tennis_system-master/result/tennis_final.png",
+    "02 code_space/tennis_system-master/result/image.png",
+    "02 code_space/tennis_system-master/assert/image.png",
+    "02 code_space/tennis_system-master/assert/full-size-tennis-court-dimensions.png",
+    "02 code_space/tennis_system-master/README.md",
+    "02 code_space/Source_code/tennis_system-master/result/tennis_final.png",
+    "02 code_space/Source_code/tennis_system-master/result/image.png",
+    "02 code_space/Source_code/tennis_system-master/README.md",
+    "01 note_repo/Readme.md",
+    "01 note_repo/competition_info/校赛信息.md",
+    "04 resource/workflow/Anaconda环境管理命令.md",
+    "04 resource/documents/项目申报书.pandoc.md",
+    "01 note_repo/competition_info/省赛-算法创新赛赛题规则.md",
+    "02 code_space/未命名.md"
+  ]
+}

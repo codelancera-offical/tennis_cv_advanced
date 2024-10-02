@@ -1,0 +1,7 @@
+# 忽略所有 .pt 和 .cbm 模型文件
+02_code_space/models/*.pt
+02_code_space/models/*.cbm
+
+# 忽略所有 .mp4 和 .avi 视频文件
+02_code_space/videos/*.mp4
+02_code_space/videos/*.avi

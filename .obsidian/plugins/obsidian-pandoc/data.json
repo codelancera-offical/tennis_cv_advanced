@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "dark",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:/Users/30752/AppData/Local/Pandoc/pandoc.exe",
+  "pdflatex": null,
+  "outputFolder": "D:/30752/Documents/G-cloud_drive/Source_Code/Inbox/WUT-Tennis_CV/04 resource/documents",
+  "extraArguments": "",
+  "exportFrom": "html"
+}
