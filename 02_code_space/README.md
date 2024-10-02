@@ -1,10 +1,14 @@
-# TennisProject
+# Tennis-Insight-system
 Tennis analysis using deep learning and machine learning. <br>
-You can check this blog post https://medium.com/@kosolapov.aetp/tennis-analysis-using-deep-learning-and-machine-learning-a5a74db7e2ee for more details
 
 ![](pics/hard.gif)
 ![](pics/grass.gif)
 ![](pics/clay.gif)
+
+## The basic functions
+
+### Player detection
+Using YOLOV8x to track player
 
 ### Ball detection
 TrackNet was used for detecting tennis ball during the game. For more information you can check this repository: https://github.com/yastrebksv/TrackNet. There you can find 
@@ -16,9 +20,12 @@ CatBoostRegressor was used to predict ball's bounces during the game based on ba
 ### Court detection
 It was used neural network for detection 14 points of tennis court. For more information you can check this repository: https://github.com/yastrebksv/TennisCourtDetector. There you can find pretrained weights to check the model.
 
-### How to run
+### Speed detection
+Mathematic methods was used in predicting the speed of shotting in games.
+
+## How to run
 Prepare a video file with resolution 1280x720
-1. Clone the repository `https://github.com/yastrebksv/TennisProject.git`
+1. Clone the repository 
 2. Run `pip install -r requirements.txt` to install packages required
 3. Run `python main.py <args>`
 
