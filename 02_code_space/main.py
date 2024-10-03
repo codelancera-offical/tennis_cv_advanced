@@ -153,7 +153,7 @@ def main(frames, scenes, bounces, ball_track, homography_matrices, kps_court, pe
                 
                 # 如果有击球信息
                 if i in hits and inv_mat is not None:
-                    # 获取这一击球帧和两帧之后的网球在视频中的位置
+                    # 获取这一击球帧和20帧之后的网球在视频中的位置
                     hit_point = ball_track_smooth[i]
                     print(f"hit_point:{hit_point}")
 

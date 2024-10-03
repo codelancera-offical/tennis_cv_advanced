@@ -11,64 +11,29 @@
             "id": "d0dcc3d1278873f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_notebook/class-BounceDetector.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "13f7d7b8b4a850a5",
+        "type": "tabs",
+        "children": [
           {
-            "id": "461677667b8b649e",
+            "id": "2ea276cfa90ea6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_notebook/class-CourtReference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2cb108c6657667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_code_space/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "352f42d59e85ed28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_notebook/class-HitDetector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1413f839833c83bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_notebook/class-CourtReference.md",
+                "file": "项目申报书.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "f254bc4fcb0fdfa9",
@@ -135,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_code_space/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_code_space/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_code_space/README.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,53 +156,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e2cb108c6657667",
+  "active": "d0dcc3d1278873f9",
   "lastOpenFiles": [
-    "01_notebook/func-track_players.md",
-    "01_notebook/func-get_court_img.md",
-    "01_notebook/class-CourtReference.md",
-    "develop_note.md",
-    "Develop_note_10.2.md",
-    "01_notebook/class-BounceDetector.md",
-    "02_code_space/info_panel.py",
-    "02_code_space/info_pannel.py",
-    "01_notebook/class-PersonDetector.md",
-    "01_notebook/class-HitDetector.md",
-    "01_notebook/class-BallDetector.md",
-    "03_Resource/workflow/git/git代理设置.md",
-    "03_Resource/documents/汇报演示No.1.pptx",
+    "Pasted image 20241003224030.png",
+    "Pasted image 20241003224047.png",
+    "PPT大纲.md",
+    "项目申报书.md",
+    "未命名.md",
+    "01_notebook/program/class-BallDetector.md",
+    "PPT大纲",
+    "01_notebook/program",
+    "03_Resource/workflow/git/gitignore.md",
     "03_Resource/workflow/python/Python开发环境搭建.md",
     "03_Resource/workflow/python/Anaconda环境管理命令.md",
     "03_Resource/workflow/python",
-    "03_Resource/workflow/新建文件夹",
+    "03_Resource/workflow/git/git代理设置.md",
     "03_Resource/workflow/git/git 最简使用教程.md",
-    "03_Resource/workflow/Python开发环境搭建.md",
-    "03_Resource/workflow/git 最简使用教程.md",
-    "03_Resource/workflow/Anaconda环境管理命令.md",
     "03_Resource/documents/项目申报书.html",
-    "03_Resource/documents/网络安全智能分析及溯源.pptx",
-    "03_Resource/documents/虹膜信息负表示开发文档.docx",
     "03_Resource/documents/附件：DIGX大赛（算法创新赛）项目申报书-240529.docx",
+    "03_Resource/documents/虹膜信息负表示开发文档.docx",
+    "03_Resource/documents/网络安全智能分析及溯源.pptx",
+    "03_Resource/documents/汇报演示No.1.pptx",
     "03_Resource/documents/2024年全球校园人工智能算法精英大赛校内报名表.xlsx",
-    "02_code_space/README.md",
-    "03_Resource/workflow/git/gitignore.md",
+    "03_Resource/documents",
+    "01_notebook/program/func-track_players.md",
+    "01_notebook/program/func-get_court_img.md",
+    "01_notebook/program/class-PersonDetector.md",
+    "01_notebook/program/class-HitDetector.md",
+    "01_notebook/program/class-CourtReference.md",
+    "01_notebook/program/class-BounceDetector.md",
     "03_Resource/workflow/FFmpeg/Tools-FFMPEG.md",
     "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
     "02_code_space/pics/hard.gif",
     "02_code_space/pics/grass.gif",
     "02_code_space/pics/clay.gif",
-    "01_notebook/main/main.md",
+    "02_code_space/README.md",
+    "01_notebook/program/main/main.md",
+    "01_notebook/main/func-track_players.md",
+    "01_notebook/main/class-BounceDetector.md",
+    "01_notebook/main/func-get_court_img.md",
+    "01_notebook/main/class-BallDetector.md",
     "01 notebook/main/func-track_players.md",
     "01 notebook/main/class-BounceDetector.md",
-    "01 notebook/main/class-BallDetector.md",
-    "01 notebook/main/main.md",
-    "03 Resource/workflow/FFmpeg/Tools-FFMPEG.md",
     "02 code_space/videos/full-size-tennis-court-dimensions.png",
     "02 code_space/videos/image.png",
     "02 code_space/input_videos/image.png",
     "02 code_space/input_videos/full-size-tennis-court-dimensions.png",
-    "02 code_space/input_video/full-size-tennis-court-dimensions.png",
-    "02 code_space/input_video/image.png",
-    "02 code_space/assert/image.png"
+    "02 code_space/input_video/full-size-tennis-court-dimensions.png"
   ]
 }
