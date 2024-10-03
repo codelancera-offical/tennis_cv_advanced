@@ -48,15 +48,28 @@ class BounceDetector:
         return features, list(labels['frame'])
     
     def predict(self, x_ball, y_ball, smooth=True):
+        
         if smooth:
             x_ball, y_ball = self.smooth_predictions(x_ball, y_ball)
+        
+        # 创建ball_track_smooth
+        ball_track_smooth = list(zip(x_ball, y_ball))
+        # 将ball_track_smooth转换为df以进行滚动平滑
+        df = pd.DataFrame(ball_track_smooth, columns=['x', 'y'])
+        # 应用滚动平均
+        df_smooth = df.rolling(window=5, min_periods=1, center=True).mean()
+        # 转换为列表的元组形式
+        ball_track_smooth = list(zip(df_smooth['x'], df_smooth['y']))
+
         features, num_frames = self.prepare_features(x_ball, y_ball)
         preds = self.model.predict(features)
         ind_bounce = np.where(preds > self.threshold)[0]
         if len(ind_bounce) > 0:
             ind_bounce = self.postprocess(ind_bounce, preds)
         frames_bounce = [num_frames[x] for x in ind_bounce]
-        return set(frames_bounce)
+
+        print("bounce_detect done\n")
+        return set(frames_bounce), ball_track_smooth
     
     def smooth_predictions(self, x_ball, y_ball):
         is_none = [int(x is None) for x in x_ball]

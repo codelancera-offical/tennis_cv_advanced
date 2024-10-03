@@ -1,0 +1,107 @@
+[
+    {
+        "frame": 11,
+        "coordinates": [
+            527.8,
+            478.2
+        ],
+        "coordinates_mini_court": [
+            663,
+            2522
+        ],
+        "speed_km_per_hour": 63.62376128633167,
+        "speed_meters_per_second": 17.67326702398102,
+        "hitter": "bottom",
+        "pose": "shot"
+    },
+    {
+        "frame": 58,
+        "coordinates": [
+            620.6,
+            163.8
+        ],
+        "coordinates_mini_court": [
+            799,
+            157
+        ],
+        "speed_km_per_hour": 74.10263379884093,
+        "speed_meters_per_second": 20.584064944122478,
+        "hitter": "top",
+        "pose": "shot"
+    },
+    {
+        "frame": 95,
+        "coordinates": [
+            423.0,
+            501.0
+        ],
+        "coordinates_mini_court": [
+            511,
+            2632
+        ],
+        "speed_km_per_hour": 61.281371695541,
+        "speed_meters_per_second": 17.02260324876139,
+        "hitter": "bottom",
+        "pose": "shot"
+    },
+    {
+        "frame": 131,
+        "coordinates": [
+            479.0,
+            157.0
+        ],
+        "coordinates_mini_court": [
+            470,
+            77
+        ],
+        "speed_km_per_hour": 33.04936639606984,
+        "speed_meters_per_second": 9.180379554463846,
+        "hitter": "top",
+        "pose": "shot"
+    },
+    {
+        "frame": 174,
+        "coordinates": [
+            817.6666666666666,
+            480.3333333333333
+        ],
+        "coordinates_mini_court": [
+            1099,
+            2534
+        ],
+        "speed_km_per_hour": 50.40044018039497,
+        "speed_meters_per_second": 14.000122272331938,
+        "hitter": "bottom",
+        "pose": "shot"
+    },
+    {
+        "frame": 176,
+        "coordinates": [
+            831.0,
+            482.0
+        ],
+        "coordinates_mini_court": [
+            1119,
+            2541
+        ],
+        "speed_km_per_hour": 54.31212744925152,
+        "speed_meters_per_second": 15.086702069236534,
+        "hitter": "bottom",
+        "pose": "shot"
+    },
+    {
+        "frame": 182,
+        "coordinates": [
+            865.4,
+            480.2
+        ],
+        "coordinates_mini_court": [
+            1172,
+            2538
+        ],
+        "speed_km_per_hour": 58.52082934315487,
+        "speed_meters_per_second": 16.25578592865413,
+        "hitter": "bottom",
+        "pose": "shot"
+    }
+]

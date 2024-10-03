@@ -1,0 +1,46 @@
+[
+    {
+        "frame": 47,
+        "coordinates": [
+            631.0,
+            215.0
+        ],
+        "coordinates_mini_court": [
+            822,
+            701
+        ]
+    },
+    {
+        "frame": 81,
+        "coordinates": [
+            479.0,
+            489.0
+        ],
+        "coordinates_mini_court": [
+            593,
+            2582
+        ]
+    },
+    {
+        "frame": 118,
+        "coordinates": [
+            459.0,
+            235.0
+        ],
+        "coordinates_mini_court": [
+            466,
+            888
+        ]
+    },
+    {
+        "frame": 203,
+        "coordinates": [
+            803.0,
+            235.0
+        ],
+        "coordinates_mini_court": [
+            1176,
+            890
+        ]
+    }
+]
