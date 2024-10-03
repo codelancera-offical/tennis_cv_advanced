@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "b9c21d4ed15f7fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Develop_note_10.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e2cb108c6657667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_notebook/class-CourtReference.md",
+                "file": "02_code_space/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "f254bc4fcb0fdfa9",
@@ -146,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_notebook/class-CourtReference.md",
+                "file": "02_code_space/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_notebook/class-CourtReference.md",
+                "file": "02_code_space/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_notebook/class-CourtReference.md"
+                "file": "02_code_space/README.md"
               }
             }
           }
@@ -209,15 +198,15 @@
   "active": "0e2cb108c6657667",
   "lastOpenFiles": [
     "01_notebook/func-track_players.md",
-    "01_notebook/class-BounceDetector.md",
+    "01_notebook/func-get_court_img.md",
+    "01_notebook/class-CourtReference.md",
     "develop_note.md",
     "Develop_note_10.2.md",
+    "01_notebook/class-BounceDetector.md",
     "02_code_space/info_panel.py",
     "02_code_space/info_pannel.py",
-    "class-PersonDetector.md",
-    "01_notebook/class-CourtReference.md",
+    "01_notebook/class-PersonDetector.md",
     "01_notebook/class-HitDetector.md",
-    "01_notebook/func-get_court_img.md",
     "01_notebook/class-BallDetector.md",
     "03_Resource/workflow/git/git代理设置.md",
     "03_Resource/documents/汇报演示No.1.pptx",

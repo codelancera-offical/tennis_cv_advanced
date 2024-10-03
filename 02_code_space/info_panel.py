@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 class HitInfoPanel:
-    def __init__(self, width=300, height=80):  # 缩小宽度和高度
+    def __init__(self, width=280, height=80):  # 缩小宽度和高度
         self.panel_width = width
         self.panel_height = height
         self.panel = self.create_panel()
