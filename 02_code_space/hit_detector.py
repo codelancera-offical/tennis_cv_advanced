@@ -64,7 +64,6 @@ class HitDetector:
 
         # 设置最小变化帧数
         minimum_change_frames_for_hit = 25
-
         # 遍历DataFrame以检测击球点
         for i in range(1, len(df) - int(minimum_change_frames_for_hit * 1.2)):
             # 检测delta_y的符号变化
