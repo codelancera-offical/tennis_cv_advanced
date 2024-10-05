@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "f254bc4fcb0fdfa9",
@@ -158,25 +159,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8d602a7c470a424",
+  "active": "d0dcc3d1278873f9",
   "lastOpenFiles": [
-    "04_pics/Pasted image 20241005140340.png",
-    "04_pics/Pasted image 20241005140215.png",
-    "04_pics/3385d6d1ac194219aaf4100dda66e6a.png",
-    "04_pics/f4ecc79501d161f7d41a9d42d4e114c.png",
-    "04_pics/8195e77a2cd5e5757e5b79300dcfbac.png",
-    "04_pics/d6b34ede3069a8cd0a03922f1603b6d.png",
-    "04_pics/8a93ae68cc4cf41ab4110b749337927.png",
-    "03_Resource/documents/~$汇报演示No.1.pptx",
-    "项目申报书_origin.md",
+    "04_pics/裁剪.png",
     "项目计划书_advanced_main.md",
+    "04_pics/8a93ae68cc4cf41ab4110b749337927.png",
+    "项目申报书_origin.md",
+    "04_pics/3385d6d1ac194219aaf4100dda66e6a.png",
+    "04_pics/8195e77a2cd5e5757e5b79300dcfbac.png",
+    "04_pics/Pasted image 20241004175041.png",
+    "04_pics/Pasted image 20241004174716.png",
+    "04_pics/f4ecc79501d161f7d41a9d42d4e114c.png",
+    "04_pics/d6b34ede3069a8cd0a03922f1603b6d.png",
+    "04_pics/courtreference.png",
+    "04_pics/热图示例.png",
+    "PPT大纲.md",
+    "03_Resource/documents/~$汇报演示No.1.pptx",
     "笔记.md",
-    "04_pics/Pasted image 20241004230457.png",
-    "04_pics/Pasted image 20241004182232.png",
     "d.md",
     "04_pics",
-    "04_pics/Pasted image 20241004175253.png",
-    "04_pics/Pasted image 20241004175041.png",
     "未命名.md",
     "01_notebook/program/class-BallDetector.md",
     "PPT大纲",
@@ -204,7 +205,6 @@
     "01_notebook/program/main/main.md",
     "01_notebook/main/func-track_players.md",
     "01_notebook/main/class-BounceDetector.md",
-    "01_notebook/main/func-get_court_img.md",
-    "01_notebook/main/class-BallDetector.md"
+    "01_notebook/main/func-get_court_img.md"
   ]
 }
