@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT大纲.md",
+                "file": "项目计划书_advanced.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT大纲.md",
+                "file": "项目计划书_advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT大纲.md",
+                "file": "项目计划书_advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT大纲.md"
+                "file": "项目计划书_advanced.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "2ea276cfa90ea6cf",
   "lastOpenFiles": [
+    "04_pics/Pasted image 20241005135147.png",
+    "04_pics/Pasted image 20241005135140.png",
+    "04_pics/Pasted image 20241005135125.png",
+    "04_pics/Pasted image 20241005135112.png",
+    "PPT大纲.md",
     "项目申报书_origin.md",
     "项目计划书_advanced.md",
     "笔记.md",
-    "PPT大纲.md",
     "04_pics/热图示例.png",
     "04_pics/裁剪.png",
     "04_pics/单应矩阵 3.png",
@@ -160,9 +164,6 @@
     "04_pics/courtreference.png",
     "未命名.md",
     "QQ截图20241004220947.png",
-    "04_pics/tracknet.png",
-    "单应矩阵 1.png",
-    "单应矩阵 2.png",
     "04_pics",
     "03_Resource/documents/~$网络安全智能分析及溯源.pptx",
     "03_Resource/documents/~$汇报演示No.1.pptx",
