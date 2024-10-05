@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目计划书_advanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3db6ef61eeb43ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目计划书_advanced.md",
+                "file": "项目计划书_advanced_main.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目计划书_advanced.md",
+                "file": "项目计划书_advanced_main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目计划书_advanced.md",
+                "file": "项目计划书_advanced_main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目计划书_advanced.md"
+                "file": "项目计划书_advanced_main.md"
               }
             }
           }
@@ -170,10 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0dcc3d1278873f9",
+  "active": "a8d602a7c470a424",
   "lastOpenFiles": [
+    "04_pics/Pasted image 20241005140340.png",
+    "04_pics/Pasted image 20241005140215.png",
+    "04_pics/3385d6d1ac194219aaf4100dda66e6a.png",
+    "04_pics/f4ecc79501d161f7d41a9d42d4e114c.png",
+    "04_pics/8195e77a2cd5e5757e5b79300dcfbac.png",
+    "04_pics/d6b34ede3069a8cd0a03922f1603b6d.png",
+    "04_pics/8a93ae68cc4cf41ab4110b749337927.png",
+    "03_Resource/documents/~$汇报演示No.1.pptx",
     "项目申报书_origin.md",
-    "项目计划书_advanced.md",
+    "项目计划书_advanced_main.md",
     "笔记.md",
     "04_pics/Pasted image 20241004230457.png",
     "04_pics/Pasted image 20241004182232.png",
@@ -181,10 +177,6 @@
     "04_pics",
     "04_pics/Pasted image 20241004175253.png",
     "04_pics/Pasted image 20241004175041.png",
-    "04_pics/Pasted image 20241004174845.png",
-    "04_pics/Pasted image 20241004174716.png",
-    "04_pics/Pasted image 20241003224030.png",
-    "Pasted image 20241003224047.png",
     "未命名.md",
     "01_notebook/program/class-BallDetector.md",
     "PPT大纲",
@@ -200,7 +192,6 @@
     "03_Resource/documents/虹膜信息负表示开发文档.docx",
     "03_Resource/documents/网络安全智能分析及溯源.pptx",
     "03_Resource/documents/汇报演示No.1.pptx",
-    "03_Resource/documents/2024年全球校园人工智能算法精英大赛校内报名表.xlsx",
     "01_notebook/program/func-track_players.md",
     "01_notebook/program/func-get_court_img.md",
     "01_notebook/program/class-PersonDetector.md",
@@ -209,14 +200,11 @@
     "01_notebook/program/class-BounceDetector.md",
     "03_Resource/workflow/FFmpeg/Tools-FFMPEG.md",
     "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
-    "02_code_space/pics/hard.gif",
-    "02_code_space/pics/grass.gif",
     "02_code_space/README.md",
     "01_notebook/program/main/main.md",
     "01_notebook/main/func-track_players.md",
     "01_notebook/main/class-BounceDetector.md",
     "01_notebook/main/func-get_court_img.md",
-    "01_notebook/main/class-BallDetector.md",
-    "01 notebook/main/func-track_players.md"
+    "01_notebook/main/class-BallDetector.md"
   ]
 }
