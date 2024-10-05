@@ -77,10 +77,10 @@ class BallDetector:
         # 霍夫圆变换检测， 使用霍夫圆变换检测热图中的圆形区域，假设网球呈现为小圆形
         circles = cv2.HoughCircles(heatmap, cv2.HOUGH_GRADIENT, dp=1, minDist=1, param1=50, param2=2, minRadius=2,
                                    maxRadius=7)
-        
-
+       
+       
         x, y = None, None
-        if circles is not None: # 如果检测到原型区域
+        if circles is not None: # 如果检测到圆形区域
             if prev_pred[0]:    # 且存在上一帧的预测坐标prev_pred
                 for i in range(len(circles[0])):    # 计算当前检测到的圆与上一帧的预测坐标之间的欧几里得距离
                     x_temp = circles[0][i][0]*scale
