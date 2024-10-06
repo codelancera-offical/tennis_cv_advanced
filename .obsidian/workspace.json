@@ -11,12 +11,8 @@
             "id": "2ea276cfa90ea6cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目计划书_advanced.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目计划书_advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目计划书_advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "项目计划书_advanced.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,24 +140,25 @@
   },
   "active": "2ea276cfa90ea6cf",
   "lastOpenFiles": [
+    "项目计划书_advanced.md",
+    "项目计划书_advanced_main.md",
+    "04_pics/速度差分.png",
+    "04_pics/迷你球场示例.png",
+    "04_pics/落点流程图.png",
+    "04_pics/落点图.png",
+    "04_pics/球速变化可视化.png",
+    "04_pics/插值+滚动平滑.png",
+    "04_pics/y_ball序列.png",
+    "04_pics/f4ecc79501d161f7d41a9d42d4e114c.png",
+    "04_pics/d6b34ede3069a8cd0a03922f1603b6d.png",
+    "04_pics/Pasted image 20241006093522.png",
     "03_Resource/documents/汇报演示No.1~51473.tmp",
     "项目申报书_origin.md",
-    "项目计划书_advanced.md",
     "03_Resource/documents/汇报演示No.1~7FE5A.tmp",
     "03_Resource/documents/汇报演示No.1~7988B.tmp",
     "03_Resource/documents/汇报演示No.1~6EF99.tmp",
-    "04_pics/Pasted image 20241005135147.png",
-    "04_pics/Pasted image 20241005135140.png",
-    "04_pics/Pasted image 20241005135125.png",
-    "04_pics/Pasted image 20241005135112.png",
     "PPT大纲.md",
     "笔记.md",
-    "04_pics/热图示例.png",
-    "04_pics/裁剪.png",
-    "04_pics/单应矩阵 3.png",
-    "04_pics/关键点优化.png",
-    "04_pics/裁剪 1.png",
-    "04_pics/courtreference.png",
     "未命名.md",
     "04_pics",
     "03_Resource/documents/~$网络安全智能分析及溯源.pptx",
@@ -187,7 +180,6 @@
     "03_Resource/workflow/python",
     "03_Resource/workflow/git/git代理设置.md",
     "03_Resource/workflow/git/git 最简使用教程.md",
-    "03_Resource/documents/项目申报书.html",
     "03_Resource/workflow/FFmpeg/Tools-FFMPEG.md",
     "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
     "02_code_space/README.md",
