@@ -20,6 +20,96 @@
             }
           },
           {
+            "id": "cb3abb5bbd73f63f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/Fast-RCNN.png"
+              }
+            }
+          },
+          {
+            "id": "8c8336e48c42fdd1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/CatBoost.png"
+              }
+            }
+          },
+          {
+            "id": "2f98357142caeb18",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/落点流程图.png"
+              }
+            }
+          },
+          {
+            "id": "ad9af8e4ed0172a3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/y_ball序列.png"
+              }
+            }
+          },
+          {
+            "id": "1bf2aa9a047debb5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/插值+滚动平滑.png"
+              }
+            }
+          },
+          {
+            "id": "a4d745fe8b19d14e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/速度差分.png"
+              }
+            }
+          },
+          {
+            "id": "7cf9c1af273b0c7d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/迷你球场示例.png"
+              }
+            }
+          },
+          {
+            "id": "2b395013cf94820f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/球速变化可视化.png"
+              }
+            }
+          },
+          {
+            "id": "0a134e6999ef5dd2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "04_pics/落点图.png"
+              }
+            }
+          },
+          {
             "id": "2ea276cfa90ea6cf",
             "type": "leaf",
             "state": {
@@ -161,18 +251,19 @@
   },
   "active": "d0dcc3d1278873f9",
   "lastOpenFiles": [
-    "04_pics/裁剪.png",
+    "04_pics/Fast-RCNN.png",
     "项目计划书_advanced_main.md",
-    "04_pics/8a93ae68cc4cf41ab4110b749337927.png",
+    "04_pics/CatBoost.png",
+    "04_pics/落点流程图.png",
+    "04_pics/y_ball序列.png",
+    "04_pics/插值+滚动平滑.png",
+    "04_pics/速度差分.png",
+    "04_pics/迷你球场示例.png",
+    "04_pics/球速变化可视化.png",
+    "04_pics/落点图.png",
+    "04_pics/Pasted image 20241006093522.png",
+    "04_pics/裁剪.png",
     "项目申报书_origin.md",
-    "04_pics/3385d6d1ac194219aaf4100dda66e6a.png",
-    "04_pics/8195e77a2cd5e5757e5b79300dcfbac.png",
-    "04_pics/Pasted image 20241004175041.png",
-    "04_pics/Pasted image 20241004174716.png",
-    "04_pics/f4ecc79501d161f7d41a9d42d4e114c.png",
-    "04_pics/d6b34ede3069a8cd0a03922f1603b6d.png",
-    "04_pics/courtreference.png",
-    "04_pics/热图示例.png",
     "PPT大纲.md",
     "03_Resource/documents/~$汇报演示No.1.pptx",
     "笔记.md",
