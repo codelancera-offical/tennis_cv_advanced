@@ -1,33 +1,21 @@
 # Tennis-Insight-system
-Tennis analysis using deep learning and machine learning. <br>
+Tennis analysis using deep learning and machine learning.
 
 ![](pics/hard.gif)
 ![](pics/grass.gif)
 ![](pics/clay.gif)
 
-## The basic functions
-
-### Player detection
-Using YOLOV8x to track player
-
-### Ball detection
-TrackNet was used for detecting tennis ball during the game. For more information you can check this repository: https://github.com/yastrebksv/TrackNet. There you can find 
-pretrained weights to check the model.
-
-### Bounce detection
-CatBoostRegressor was used to predict ball's bounces during the game based on ball trajectory detected in the previous step. You can check this pretrained model: https://drive.google.com/file/d/1Eo5HDnAQE8y_FbOftKZ8pjiojwuy2BmJ/view?usp=drive_link 
-
-### Court detection
-It was used neural network for detection 14 points of tennis court. For more information you can check this repository: https://github.com/yastrebksv/TennisCourtDetector. There you can find pretrained weights to check the model.
-
-### Speed detection
-Mathematic methods was used in predicting the speed of shotting in games.
-
 ## How to run
 Prepare a video file with resolution 1280x720
 1. Clone the repository 
 2. Run `pip install -r requirements.txt` to install packages required
-3. Run `python main.py <args>`
+3. Run follwing command:
+    """bash/powershell
+        python main.py --path_ball_track_model "./models/ball_track_model.pt" --path_court_model "./models/court_detect_model.pt" --path_bounce_model "./models/bounce_detect_model.cbm" --path_input_video "./videos/origin_720p.mp4" --path_output_video "./videos/output_720p.avi"
+    """
 
+### Where is the demo video?
+
+- Go to ./videos to find the demo.
    
 

@@ -4,118 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4451e8fb4c7a6c10",
+        "id": "cddb9aee63ac997b",
         "type": "tabs",
         "children": [
           {
-            "id": "d0dcc3d1278873f9",
+            "id": "f2869afa017b9890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目计划书_advanced_main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb3abb5bbd73f63f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/Fast-RCNN.png"
-              }
-            }
-          },
-          {
-            "id": "8c8336e48c42fdd1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/CatBoost.png"
-              }
-            }
-          },
-          {
-            "id": "2f98357142caeb18",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/落点流程图.png"
-              }
-            }
-          },
-          {
-            "id": "ad9af8e4ed0172a3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/y_ball序列.png"
-              }
-            }
-          },
-          {
-            "id": "1bf2aa9a047debb5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/插值+滚动平滑.png"
-              }
-            }
-          },
-          {
-            "id": "a4d745fe8b19d14e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/速度差分.png"
-              }
-            }
-          },
-          {
-            "id": "7cf9c1af273b0c7d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/迷你球场示例.png"
-              }
-            }
-          },
-          {
-            "id": "2b395013cf94820f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/球速变化可视化.png"
-              }
-            }
-          },
-          {
-            "id": "0a134e6999ef5dd2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_pics/落点图.png"
-              }
-            }
-          },
-          {
-            "id": "2ea276cfa90ea6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目申报书_origin.md",
+                "file": "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "f254bc4fcb0fdfa9",
@@ -188,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目计划书_advanced_main.md",
+                "file": "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目计划书_advanced_main.md",
+                "file": "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目计划书_advanced_main.md"
+                "file": "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md"
               }
             }
           }
@@ -249,49 +146,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0dcc3d1278873f9",
+  "active": "f2869afa017b9890",
   "lastOpenFiles": [
-    "04_pics/Fast-RCNN.png",
-    "项目计划书_advanced_main.md",
-    "04_pics/CatBoost.png",
-    "04_pics/落点流程图.png",
-    "04_pics/y_ball序列.png",
-    "04_pics/插值+滚动平滑.png",
-    "04_pics/速度差分.png",
-    "04_pics/迷你球场示例.png",
-    "04_pics/球速变化可视化.png",
-    "04_pics/落点图.png",
-    "04_pics/Pasted image 20241006093522.png",
-    "04_pics/裁剪.png",
-    "项目申报书_origin.md",
+    "03_Resource/documents/~$项目申报书.docx",
+    "03_Resource/documents/~WRL1903.tmp",
+    "03_Resource/documents/~WRD1891.tmp",
+    "03_Resource/documents/项目申报书.docx",
+    "03_Resource/documents/~$信息负表示开发文档.docx",
+    "03_Resource/documents/校内报名表.xlsx",
+    "03_Resource/documents/65C30710",
+    "03_Resource/documents/~$2024年全球校园人工智能算法精英大赛校内报名表.xlsx",
+    "02_code_space/videos/demo.mp4",
+    "02_code_space/videos/output_720p.mp4",
+    "03_Resource/workflow/FFmpeg/Tools-FFMPEG.md",
+    "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
     "PPT大纲.md",
-    "03_Resource/documents/~$汇报演示No.1.pptx",
     "笔记.md",
+    "项目申报书_origin.md",
+    "项目计划书_advanced_main.md",
+    "02_code_space/videos/output_720p.avi",
+    "04_pics/tracknet.png",
+    "04_pics/落点图.png",
+    "04_pics/球速变化可视化.png",
+    "04_pics/迷你球场示例.png",
+    "04_pics/速度差分.png",
+    "04_pics/插值+滚动平滑.png",
+    "04_pics/y_ball序列.png",
+    "04_pics/落点流程图.png",
+    "04_pics/CatBoost.png",
+    "03_Resource/workflow/git/git 最简使用教程.md",
+    "04_pics/Fast-RCNN.png",
     "d.md",
-    "04_pics",
     "未命名.md",
     "01_notebook/program/class-BallDetector.md",
-    "PPT大纲",
-    "01_notebook/program",
     "03_Resource/workflow/git/gitignore.md",
     "03_Resource/workflow/python/Python开发环境搭建.md",
     "03_Resource/workflow/python/Anaconda环境管理命令.md",
-    "03_Resource/workflow/python",
     "03_Resource/workflow/git/git代理设置.md",
-    "03_Resource/workflow/git/git 最简使用教程.md",
-    "03_Resource/documents/项目申报书.html",
-    "03_Resource/documents/附件：DIGX大赛（算法创新赛）项目申报书-240529.docx",
-    "03_Resource/documents/虹膜信息负表示开发文档.docx",
-    "03_Resource/documents/网络安全智能分析及溯源.pptx",
-    "03_Resource/documents/汇报演示No.1.pptx",
     "01_notebook/program/func-track_players.md",
     "01_notebook/program/func-get_court_img.md",
     "01_notebook/program/class-PersonDetector.md",
     "01_notebook/program/class-HitDetector.md",
     "01_notebook/program/class-CourtReference.md",
     "01_notebook/program/class-BounceDetector.md",
-    "03_Resource/workflow/FFmpeg/Tools-FFMPEG.md",
-    "03_Resource/workflow/FFmpeg/ffmpeg-最简使用.md",
     "02_code_space/README.md",
     "01_notebook/program/main/main.md",
     "01_notebook/main/func-track_players.md",
